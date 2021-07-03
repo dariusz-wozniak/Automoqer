@@ -1,3 +1,11 @@
+Fork of the AutoMoqer that has updated dependencies (such as Moq).
+
+Available at Nuget (fork): [![NuGet](https://buildstats.info/nuget/dariusz-wozniak.AutoMoqer)](https://www.nuget.org/packages/dariusz-wozniak.AutoMoqer/)
+
+Original readme just below the line 👇
+
+---
+
 This repository contains a nuget package called "Automoqer": https://www.nuget.org/packages/Automoqer/
 
 
@@ -8,7 +16,7 @@ The purpose of Automoqer is to ease the creation of services with constructor Io
 
 ## Basic usage ##
 
-1. Get Automoqer via NuGet: [![NuGet](https://img.shields.io/nuget/v/Automoqer.svg)](https://www.nuget.org/packages/Automoqer/)
+1. Get Automoqer via NuGet.
 
 2. In your unit test, create an Automoqer instance like this:
 
