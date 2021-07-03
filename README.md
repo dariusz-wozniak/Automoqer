@@ -6,7 +6,7 @@ Original readme just below the line 👇
 
 ---
 
-This repository contains a nuget package called "Automoqer": https://www.nuget.org/packages/Automoqer/
+This repository contains a nuget package called "Automoqer".
 
 
 # About Automoqer #
