@@ -7,9 +7,9 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <license type="file">LICENSE.txt</license>
-    <projectUrl>https://github.com/rbengtsson/Automoqer</projectUrl>
+    <projectUrl>https://github.com/dariusz-wozniak/Automoqer</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>Fork of AutoMoqer (with updated packages)</description>
     <releaseNotes/>
     <copyright>Copyright 2021 Robert Bengtsson</copyright>
     <tags>Moq Mock UnitTest</tags>
